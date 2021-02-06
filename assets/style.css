@@ -1,0 +1,21 @@
+.answer-btn {
+    background-color: purple;
+    color: white;
+    width: 70px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.next-btn {
+    background-color: purple;
+    color: white;
+    width: 70px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.text {
+    text-align: center;
+    font-size: large;
+    color: black;
+}
