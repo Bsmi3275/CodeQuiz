@@ -9,14 +9,13 @@
 * [Description](#description)
 * [Contributing](#contributing)
 * [Usage](#usage)
-* [Questions](#questions)
 * [Information](#information)
 
 ### License:
 #### <p>Apache</p>
 
 ### Description: 
-#### <p>The purpose of this project is to create a quiz with 10 questions relevant to Coding. I did this in true and false standards. At the end, you can enter your initials (the homework instructions did not specify an actual scoreboard). </p>
+#### <p>The purpose of this project is to create a quiz with 10 questions relevant to Coding. I did this in "true and false" standards. At the end, you can enter your initials (the homework instructions did not specify an actual scoreboard). </p>
 
 ### Contributing:
 #### <p>Benjamin Smith</p>
@@ -40,6 +39,16 @@
 #### <p>Here is a final gif of the successful app</p>
 
 ![Success](assets/Success.gif)
+
+#### <p>Afterwards, I changed the initials to a table. Here is my first attempt</p> 
+
+![firsttable](assets/firsttable.PNG)
+
+#### <p>and a final working attempt.</p>
+
+![ChangedNameAndWorkingTable](assets/ChangedNameAndWorkingTable.PNG)
+
+#### <p>These final parts were added for appearance's sake. This was way overdue, but I am glad that I completed it when I did because doing so helped me with another assignment as well as my project. This is one of those instances which luck, divine intervention, or perhaps just a notably positive coincidence takes place. I did not, however, successfully get to save anything to the local storage. That is addressed in the next assignment, #5. </p>
 
 ### Information:
 #### <p>I am better contacted by email.</p>

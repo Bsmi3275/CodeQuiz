@@ -1,5 +1,6 @@
 //Questions 
-var question001 = ["'XML' stands for 'Exemplary Markup language' !",
+var question001 = [
+            "'XML' stands for 'Exemplary Markup language' !",
             "Javascript is hard!",
             "Express javascript is not learned within the first four weeks of the Coding Boot Camp! (don't be tricked)",
             "CSS, javascript, and HTML are technically the same language!",
@@ -289,9 +290,8 @@ var question001 = ["'XML' stands for 'Exemplary Markup language' !",
                 alert("Congratulations on your perfect score! ")
                 }
 
-                message004.innerHTML = "Initials: " + length001;
-                message005.innerHTML = "Score: " + length1;
-                message006.innerHTML = "<button class=next-btn onclick=repeat001()>Repeat</button>"
+                message004.innerHTML = "<div class= table-box><div class= table-head><div class=table-cell>Initials: </div><div class= table-cell>Score: </div></div></div><div class= table-box><div class= table-row><div class= table-cell>" + length001 + " </div><div class= table-cell> " + length1 + " </div></div></div>";
+                message005.innerHTML = "<button class=next-btn onclick=repeat001()>Repeat</button>";
             }
         }
 
@@ -329,9 +329,8 @@ var question001 = ["'XML' stands for 'Exemplary Markup language' !",
                 alert("Congratulations on your perfect score! ")
                 }
 
-                message004.innerHTML = "Initials: " + length001;
-                message005.innerHTML = "Score: " + length1;
-                message006.innerHTML = "<button class=next-btn onclick=repeat001()>Repeat</button>";
+                message004.innerHTML = "<div class= table-box><div class= table-head><div class=table-cell>Initials: </div><div class= table-cell>Score: </div></div></div><div class= table-box><div class= table-row><div class= table-cell>" + length001 + " </div><div class= table-cell> " + length1 + " </div></div></div>";
+                message005.innerHTML = "<button class=next-btn onclick=repeat001()>Repeat</button>";
             }  
         }
         //repeat order
