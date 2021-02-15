@@ -54,6 +54,7 @@ var question001 = [
             function q1i() {
             message001.innerHTML = "";
             message002.innerHTML = "Incorrect. 'XML' stands for 'Extensible Markup Language' !";
+            //Figuring this out was the 2nd hardest part
             time1 -= 20;
             message003.innerHTML = "<button class=next-btn onclick=next001()>Next</button>";
             }
